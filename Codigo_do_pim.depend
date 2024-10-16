@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701620138 source:d:\athirson\documents\documentos pessoais\estudos c\exccodeblock\cadastro\codigo_do_pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+
