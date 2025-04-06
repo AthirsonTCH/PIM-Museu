@@ -1,3 +1,3 @@
 # PIM-Museu
 
-## Um sistema para controle de venda de ingressos de um museu multitemático e cadastro/login de funcionario desenvolvido como um trabalho(PIM) para a faculdade 
+## Sistema de controle de venda de ingressos para um museu multitemático, com funcionalidades de cadastro e login de funcionários. Desenvolvido como projeto integrador (PIM) para a faculdade. 
